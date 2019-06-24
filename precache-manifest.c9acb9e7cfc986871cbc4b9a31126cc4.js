@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b7b4b209b9b9e550bbaba5379ef5df3",
+    "revision": "8c96bd824da3fec340f1402dbc195949",
     "url": "/index.html"
   },
   {
-    "revision": "090d51fa63361d64f3c1",
+    "revision": "80ed2c290ed32fdac213",
     "url": "/static/css/2.7f1794a0.chunk.css"
   },
   {
-    "revision": "10d6043aa3647fd8d5ad",
-    "url": "/static/css/main.13540aac.chunk.css"
+    "revision": "3436d15cabc5b41ac661",
+    "url": "/static/css/main.338dadb8.chunk.css"
   },
   {
-    "revision": "090d51fa63361d64f3c1",
-    "url": "/static/js/2.eb9dd1d6.chunk.js"
+    "revision": "80ed2c290ed32fdac213",
+    "url": "/static/js/2.c2c4bc98.chunk.js"
   },
   {
-    "revision": "10d6043aa3647fd8d5ad",
-    "url": "/static/js/main.6dd289b2.chunk.js"
+    "revision": "3436d15cabc5b41ac661",
+    "url": "/static/js/main.b031564b.chunk.js"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -90,6 +90,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "621bd386841f74e0053cb8e67f8a0604",
     "url": "/static/media/ionicons.621bd386.svg"
+  },
+  {
+    "revision": "b7e19b1b768a067ad94e596a1eeee463",
+    "url": "/static/media/logo-blue.b7e19b1b.png"
+  },
+  {
+    "revision": "49c241232db653aa1a1b52694d31bb17",
+    "url": "/static/media/logo-white.49c24123.png"
   },
   {
     "revision": "207ed67d4f2015843b9b34015fada443",
