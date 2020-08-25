@@ -27,7 +27,9 @@ import Portfolio from './components/portfolio.jsx';
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
-
+import ReactGA from 'react-ga';
+ReactGA.initialize('UA-133322079-01');
+ReactGA.pageview(window.location.pathname + window.location.search);
 
 
 ReactDOM.render(

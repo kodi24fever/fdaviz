@@ -26,25 +26,25 @@ class Contact extends React.Component{
                                 <div className="row">
                                     <div className="col-md-12 mb-3">
                                     <div className="form-group">
-                                        <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                        <input type="text" name="name" className="form-control" id="name" placeholder="Your Name" required/>
                                         <div className="validation"></div>
                                     </div>
                                     </div>
                                     <div className="col-md-12 mb-3">
                                     <div className="form-group">
-                                        <input type="email" className="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                                        <input type="email" className="form-control" name="email" id="email" placeholder="Your Email" required/>
                                         <div className="validation"></div>
                                     </div>
                                     </div>
                                     <div className="col-md-12 mb-3">
                                         <div className="form-group">
-                                        <input type="text" className="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+                                        <input type="text" className="form-control" name="subject" id="subject" placeholder="Subject" required/>
                                         <div className="validation"></div>
                                         </div>
                                     </div>
                                     <div className="col-md-12 mb-3">
                                     <div className="form-group">
-                                        <textarea className="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+                                        <textarea className="form-control" name="message" rows="5" placeholder="Write something here..." required></textarea>
                                         <div className="validation"></div>
                                     </div>
                                     </div>
